@@ -23,6 +23,7 @@
 
 ### 2024
 
+- <a name="todo"></a> Consistent Prompting for Rehearsal-Free Continual Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.08568)][[code](https://github.com/Zhanxin-Gao/CPrompt)]
 - <a name="todo"></a> Expandable Subspace Ensemble for Pre-Trained Model-Based Class-Incremental Learning (**CVPR2024**)[[paper](https://arxiv.org/abs/2403.12030)][[code](https://github.com/sun-hailong/CVPR24-Ease)]
 - <a name="todo"></a> Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners (**CVPR2024**)[[paper](https://arxiv.org/abs/2404.02117)][[code]([https://github.com/AnAppleCore/MOSE](https://github.com/KHU-AGI/PriViLege))]
 - <a name="todo"></a> Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation (**CVPR2024**)[[paper](https://arxiv.org/abs/2404.00417)][[code](https://github.com/AnAppleCore/MOSE)]
